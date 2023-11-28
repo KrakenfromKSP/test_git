@@ -1,0 +1,10 @@
+HTML
+JS
+PHP
+CSS
+React
+Angular
+Nodejs
+SQL
+MongoDB
+FireBase
